@@ -29,7 +29,7 @@ file_meter = list(set(file_meter))
     
 app.layout = html.Div(style={'backgroundColor': '#7882A4'},  children=[
     html.H1(
-        children='개같은 시각화^^',
+        children='시각화^^',
         style={
             'textAlign': 'center',
             'color': '#7FDBF'
